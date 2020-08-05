@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "957041336938",
+    "firebase_url": "https://face-detection-mlkit-125a4.firebaseio.com",
+    "project_id": "face-detection-mlkit-125a4",
+    "storage_bucket": "face-detection-mlkit-125a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957041336938:android:279f47a6ed7091be5f6013",
+        "android_client_info": {
+          "package_name": "com.arifpurnama.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957041336938-18hqtclslftj1jlejnanh4moja36mhor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1oox4nRthFwdqwenr3p_00q2guEwiZ_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957041336938-18hqtclslftj1jlejnanh4moja36mhor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
